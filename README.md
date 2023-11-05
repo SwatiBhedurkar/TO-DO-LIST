@@ -1,2 +1,3 @@
-# mini-project
+A mini-project
 my first project
+Authour-Swati Bhedurkar
